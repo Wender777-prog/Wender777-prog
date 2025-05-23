@@ -1,25 +1,29 @@
-# Olá, eu sou o Wender! 👋
+# 👋 Olá! Eu sou o Wender
 
-## Sobre mim
-Sou um estudante de programação focado em **Lógica de programação** e iniciando os meus estudos em **Java Script**
-Apaixonado por Tecnologia e sempre buscando aprender mais!
+## 👨‍💻 Sobre mim
+Sou um estudante apaixonado por tecnologia, iniciando minha jornada na programação com foco em **lógica de programação** usando Visualg.  
+Atualmente me dedico a aprender **JavaScript** e **Python**, com o objetivo de construir projetos práticos e entrar no mercado de tecnologia.
 
-## Oque estou estudando
-- Lógica de programação (Visualg)
-- JavaScript basíco
-- Fundamentos de algoritmos e estrutura de dados
+## 📚 O que estou estudando agora
+- Lógica de Programação com Visualg  
+- Fundamentos de algoritmos e estruturas de dados  
+- Introdução ao JavaScript  
+- Git e GitHub para versionamento de código  
 
-- Tecnologias que estou aprendendo
-- Visualg
-- JavaScript
-- Git e Github
+## 🛠️ Tecnologias e ferramentas que utilizo
+- Visualg (para algoritmos estruturados)  
+- Markdown e Bloco de Notas (para documentação e anotações)  
+- Git & GitHub (para versionamento e portfólio de projetos)  
 
-## Meus objetivos
-- Aprender bem os fundamentos da programação  
-- Construir projetos práticos para aplicar o que aprendo  
-- Criar um portfólio que mostre minha evolução  
-- Conquistar minha primeira oportunidade na área de tecnologia
+## 🎯 Meus objetivos
+- Dominar os fundamentos da programação  
+- Criar projetos que mostrem meu progresso  
+- Construir um portfólio sólido  
+- Conseguir minha primeira oportunidade na área de tecnologia  
 
-- Me encontre por aqui:
-- GitHub: [Wender777-prog](https://github.com/Wender777-prog)
-- Instagram: [@wender_souza_s](https://instagram.com/wender_souza_s) 
+## 📫 Onde me encontrar
+- 💼 GitHub: [Wender777-prog](https://github.com/Wender777-prog)  
+- 📸 Instagram: [@wender_souza_s](https://instagram.com/wender_souza_s)  
+
+> Obrigado por visitar meu perfil!  
+> Sinta-se à vontade para acompanhar minha jornada, dar feedbacks e trocar ideias! 🚀
