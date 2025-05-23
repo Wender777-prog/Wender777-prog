@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Wender
+# 👋 Eae eu sou o Wender
 
 ## 👨‍💻 Sobre mim
 Sou um estudante apaixonado por tecnologia, iniciando minha jornada na programação com foco em **lógica de programação** usando Visualg.  
