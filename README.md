@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Wender! 👋
 
-<!--
-**Wender777-prog/Wender777-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou um estudante de programação focado em **Lógica de programação** e iniciando os meus estudos em **Java Script**
+Apaixonado por Tecnologia e sempre buscando aprender mais!
 
-Here are some ideas to get you started:
+## Oque estou estudando
+- Lógica de programação (Visualg)
+- JavaScript basíco
+- Fundamentos de algoritmos e estrutura de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tecnologias que estou aprendendo
+- Visualg
+- JavaScript
+- Git e Github
+
+## Meus objetivos
+- Aprender bem os fundamentos da programação  
+- Construir projetos práticos para aplicar o que aprendo  
+- Criar um portfólio que mostre minha evolução  
+- Conquistar minha primeira oportunidade na área de tecnologia
+
+- Me encontre por aqui:
+- GitHub: [Wender777-prog](https://github.com/Wender777-prog)
+- Instagram: [@wender_souza_s](https://instagram.com/wender_souza_s) 
